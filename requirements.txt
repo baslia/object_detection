@@ -3,4 +3,4 @@ transformers
 timm
 pytorch_lightning
 pycocotools
-sklearn
+scikit-learn
