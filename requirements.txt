@@ -1,3 +1,4 @@
 torch
 transformers
 timm
+pytorch_lightning
